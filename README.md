@@ -2,3 +2,4 @@
 oke gas
 TEST
 GIANT AJG
+GIANT KNTL
